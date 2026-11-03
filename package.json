@@ -1,0 +1,1 @@
+{"name":"api-contract-test-kit","version":"0.1.0","description":"Alat ringan untuk memeriksa kontrak HTTP.","main":"src/index.js","type":"commonjs","engines":{"node":">=20"},"scripts":{"test":"node --test tests/contract.test.js"},"license":"MIT"}
